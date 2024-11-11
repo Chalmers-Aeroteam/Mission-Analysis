@@ -1,1 +1,1 @@
-Jupyter Notebook to explore flight parameters of airplane. So far implemented is Takeoff
+Jupyter Notebook to explore flight parameters of airplane. So far implemented is Takeoff and Endurance
